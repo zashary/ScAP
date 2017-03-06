@@ -6756,16 +6756,23 @@ button.close {
 }
 /* --- */
 .section0 {
-    background-color:gray;
+    background-color:#434345;
     color:white;
     padding: 10%;
 }
 .section1{
     padding: 10%;
-    }
+}
 .section2 {
     background-color:#0a3143;
     color:white;
     padding: 10%;
 }
+.draft2column1 {
+    background-color:#aeaeaf;
+}
+.draft2row{
+    height:300px;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
