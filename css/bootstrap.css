@@ -6771,8 +6771,12 @@ button.close {
 .draft2column1 {
     background-color:#aeaeaf;
 }
-.draft2row{
-    height:300px;
+.draft2columns{
+    height:500px;
+}
+.col-md-1 {
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
